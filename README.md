@@ -16,4 +16,4 @@ It shows , how to query SQL Server graph data from C# code
 
 ### Useful URL's
 
-![sqlserver graph databases](https://www.red-gate.com/simple-talk/sql/sql-development/sql-server-graph-databases-part-1-introduction/)
+https://www.red-gate.com/simple-talk/sql/sql-development/sql-server-graph-databases-part-1-introduction
